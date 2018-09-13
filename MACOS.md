@@ -1,5 +1,7 @@
 # INSTALL GUIDE MANUALLY
 
+## RUN ALL OF THESE IN A SINGULAR TERMINAL WINDOW
+
 1.) /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 INSTALL HOME-BREW
